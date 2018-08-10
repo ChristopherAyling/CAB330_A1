@@ -1,4 +1,12 @@
 # CAB330_A1
 CAB330 Assignment 1
 
-also have graphviz installed on your system and in the path.
+Requirements:
+
+- Anaconda
+- pandas
+- numpy
+- matplotlib
+- scikit-learn
+- seaborn
+- graphviz (`conda install graphviz` then `conda install python-graphviz` [to get on path](https://stackoverflow.com/a/47043173/3421994))
